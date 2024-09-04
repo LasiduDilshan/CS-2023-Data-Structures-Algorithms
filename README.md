@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms 
 
 This repository contains lab exercises for the Data Structures and Algorithms module. The module covers key concepts and practical implementations essential for computer science.
 
